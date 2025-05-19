@@ -1,0 +1,23 @@
+body {
+    padding: 8%;
+    font-family: sans-serif;
+    background-color: darkgray;
+    color: black;
+    text-align: center;
+}
+
+.card {
+    padding: 8%;
+    padding-left: 5%;
+    margin-top: 5%;
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+h2, h3, h4, h5 {
+    margin: 0;
+}
+
+p {
+    font-style: italic;
+}
